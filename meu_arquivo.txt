@@ -1,0 +1,6 @@
+#include <stdio.h> //printf ().
+
+int main() {
+printf("\nOla Mundo!!! \n\n\n");
+return 0;
+}
